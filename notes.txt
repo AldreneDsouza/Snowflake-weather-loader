@@ -1,0 +1,4 @@
+To-do for this project:
+- Sign up for free Snowflake trial
+- Find public NOAA weather CSV on S3
+- Set up external stage
